@@ -1,6 +1,6 @@
 md-toolbar.md-default-theme 
 {
-	background-color:#367588;
+	background-color:#008080;
 	color:white;
 }
 
@@ -35,6 +35,27 @@ md-card
 	height:40%;
 	width: 40%;
 }
+
+.left-panel
+{
+	height: 100%;
+	width: 85%;
+}
+
+.right-panel
+{
+	background-color: #efefef;
+	height: 100%;
+	width: 15%;
+	text-align: center;
+}
+
+.tag
+{
+	background-color: #66b2b2;
+}
+
+
 
 
 
